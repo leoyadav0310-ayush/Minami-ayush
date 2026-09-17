@@ -1,0 +1,14 @@
+pyTelegramBotAPI
+python-telegram-bot
+aiogram
+pyrogram
+telethon
+python-dotenv
+Flask
+psutil
+requests
+Pillow
+beautifulsoup4
+python-dateutil
+PyYAML
+aiohttp
